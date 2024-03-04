@@ -1,0 +1,27 @@
+Listas: Estas se pueden declarar sin especificar sus elementos, luego se puede realizar. Se declaran con corchetes
+    a = []
+
+    Metodos:
+Tupla: Se diferencia de las listas por el simbolo de parentesis en vez de corchetes, ademas las tuplas son estaticas por lo que cuando se declaran se deben especificar sus elementos
+    a = (elemento1, elemento2)
+
+Comando que se pueden aplicar a una lista:
+    ‘append’, ‘count’, ‘extend’, ‘index’, ‘insert’, ‘pop’, ‘remove’, ‘reverse’, ‘sort’
+
+10 // 4:
+    Retorna un entero, sin la parte decimal
+
+numero1 % numero2:
+    Retorna el residuo de una division
+
+Constante:
+    Es un tipo de elemento en donde su valor no cambia
+
+Uso de variables:
+    - El nombre no debe iniciar con un numero
+    - Si el nombre esta conformado por dos palabras se debe separar por guion abajo
+    - Los nombres de variables no deben ser iguales a palabras reservadas
+
+
+
+
