@@ -1,0 +1,2 @@
+COMANDO PARA VER VISTA DE ARBOL DE PROYECTO:
+    tree -I '__pycache__|*.egg-info|venv'
