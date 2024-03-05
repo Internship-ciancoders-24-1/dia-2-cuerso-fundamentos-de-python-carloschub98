@@ -37,7 +37,6 @@ class ClientService():
         with open(tmp_table_name, mode='w') as f:
             writer = csv.DictWriter(f, fieldnames=Client.schema())
             writer.writerows(clients)
-
         os.remove(self.table_name)
         os.rename(tmp_table_name, self.table_name)
     
