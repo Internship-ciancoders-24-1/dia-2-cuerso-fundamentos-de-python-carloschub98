@@ -1,0 +1,1 @@
+import this #Es el send de python
